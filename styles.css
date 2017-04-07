@@ -1,0 +1,18 @@
+#jumbotron {
+  text-align:center;
+  padding:40px;
+  background-image:url(../../assets/img/houses.jpg);
+  background-size:cover;
+  height:100%;
+}
+
+.jumbotron {
+  border-radius:20px;
+  padding:40px;
+  background-color:rgba(255,255,255,0.75);
+}
+
+.tableHeaders {
+  text-align:center;
+}
+
